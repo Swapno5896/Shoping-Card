@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Shopig card
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For This project I used react library, for state management redux and typescript for to catch mistakes early through a type system and to use JavaScript more efficient.
 
 ## Available Scripts
 
@@ -44,4 +44,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 # Shoping-Card
