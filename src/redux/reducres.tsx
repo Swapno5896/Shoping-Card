@@ -1,14 +1,11 @@
 import { Action } from './cartAction/cartAction'
-
 interface interfaceType {
-
     cart: never[];
     products: {
         name: string;
         price: number;
         id: number;
     }[];
-
 }
 const initState = {
     cart: [],
@@ -18,7 +15,6 @@ const initState = {
         { name: "dell", price: 14, id: 3 },
         { name: "apple", price: 19, id: 4 },
     ],
-
 }
 
 export const producttReducer = (state: interfaceType = initState, action: Action) => {
